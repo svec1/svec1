@@ -9,6 +9,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4zMHN3MjBnZDc5NW8zb3V1dXJuN3dlMmRhdng3bnJwc2Eya3JuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NnnS6Q8hVPZC/giphy.gif" width=100/>
     </h2>
     <br>
+    <h2>💕💕💕</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg"/>
     <br><br>
     <h2>Languages ​​and tools I use</h2>
