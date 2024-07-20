@@ -8,5 +8,6 @@
     <a href="https://t.me/svechka186"> 
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square"/>
     </a>
+    <br><br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" />    
 </div>
