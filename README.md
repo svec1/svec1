@@ -1,16 +1,15 @@
-## Hi there 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div id="header" align="center">
+    <h1>Hello, Yes it's me Filip Shvechikov🎶🎶🎶</h1>
+    <h2>Junior👿/Middle😈+-!=idk C/C++ developer <- yes😨</h2>
+    <h2>I'm 16, I'm interested in low-level programming (I may not)</h2>
+</div>
 
-<!--
-**svec1/svec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<i class="devicon-c-plain colored"></i>
+<i class="devicon-cmake-plain colored"></i>
+<i class="devicon-cplusplus-plain colored"></i>
+<i class="devicon-git-plain colored"></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💓💓💓💓
+<i class="devicon-llvm-plain colored"></i>
