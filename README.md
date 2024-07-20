@@ -1,8 +1,5 @@
 <div id="header" align="center">
     <h1> 🔥 Hello, Yes it's me Filipp Shvechikov</h1>
-    <a href="https://t.me/svechka186"> 
-        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square"/>
-    </a>
     <h2>Junior👿/Middle😈+-!=idk C/C++ developer <- yes😨<br><br>
     I'm 16, I'm interested in low-level programming (I may not)
     <br><br>
