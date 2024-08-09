@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1> 🔥 Hello </h1>
+    <h1> Hello </h1>
     <h2>Junior👿/Middle😈+-!=idk C/C++ developer <- yes😨<br><br>
     I'm 16, I'm interested in low-level programming (I may not)
     <br><br>
